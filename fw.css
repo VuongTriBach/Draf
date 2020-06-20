@@ -1,21 +1,25 @@
-/* #lyric{
-    font-family: 'Roboto', sans-serif; 
-    font-size: 1.2rem;
-} */
+body{
+    font-family: 'Noto Sans HK', sans-serif;
+    background-color: gray;
+}
 
-ul {
-    
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
+.vid{
+    margin-top: 2%;;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color:lavender  ;
+}
 
-  .item{
-      background-color: coral;
-      margin: 10px;
-  }
+.abc{
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 1.5rem;
+}
 
-  .container{
-      display: flex;
+#lyric{
+    font-size: 14px;
+}
 
-  }
+.name{
+    margin-left: 10%;
+}
